@@ -14,7 +14,13 @@ h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
 }
-img{
+
+img {
     width: 120px;
     height: auto;
+}
+
+.inputtext {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
 }
