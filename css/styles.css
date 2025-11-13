@@ -27,3 +27,9 @@ img {
 input{
     width: 250px;
 }
+.inputarea{
+    background-color: rgb(72, 197, 255);
+    margin: 10px;
+    padding: 30px;
+    width: 30%;
+}
